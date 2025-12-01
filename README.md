@@ -22,3 +22,8 @@
 
 ### [Renaming client hostname for windows server active directory] (https://www.youtube.com/watch?v=JEAT6Mj-tvY&list=PL_lSJ8mxqCJF4Ml22zgdR08Q-nrgfLRtv&index=1)
 - Demonstrated troubleshooting client VM registration in Active Directory. Initially, the computer name was not recognized under the Computers tab. After renaming the client VM hostname, the     updated name appeared correctly in Active Directory Users and Computers, confirming successful domain integration.
+
+### About Me
+- Certifications:** CompTIA A+, Network+, IT Ops Specialist
+- Transferable Skills:** Customer service, documentation, troubleshooting
+- Goal:** Secure a 1st or 2nd Line Engineer Role
