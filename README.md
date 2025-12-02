@@ -2,10 +2,23 @@
 - This repo documents my Active Directory lab practice, showing transferable IT support skills in user management, GPOs, and troubleshooting.
 
 ### Skills Demonstrated
+- Active Directory
 - User account creation and management
 - Group Policy Objects (password policies, drive mapping)
 - File sharing and permissions
 - Documentation and troubleshooting
+- Office 365
+- Software Installation
+- DNS Administration
+- Static IP Configuration
+- Subnetting
+- Domain Controller
+- Windows Server Management
+- Internet Protocol Suite (TCP/IP)
+- NTFS
+- Firewall Management
+- Technical Support
+- Group Policy
 
 ### [Active Directory Lab Project – User Account Provisioning & Security Policies] (https://www.youtube.com/watch?v=kPK2QXLEqZA&list=PL_lSJ8mxqCJF4Ml22zgdR08Q-nrgfLRtv&index=4)
 - Created and managed multiple domain user accounts in Active Directory, applying best practices for account setup and management. 
